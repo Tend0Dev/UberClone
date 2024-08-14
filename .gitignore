@@ -1,0 +1,67 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados por el entorno de desarrollo
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/vcs.xml
+/captures
+.externalNativeBuild
+
+# Archivos de compilacion
+/build/
+/app/build/
+
+# Archivos de configuracion de usuario
+.idea/
+.idea/caches/
+/.idea/codeStyles/
+/.idea/codestyles.xml
+.idea/compiler.xml
+.idea/copyright/
+/.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes
+.idea/sqlDataSources.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# SDK y dependencias
+/local.properties
+/.gradle/
+/gradle/wrapper/gradle-wrapper.properties
+.gradle/
+/gradle-wrapper.jar
+.idea/
+android/app/build/
+
+# Keystore ( tu propio nombre de archivo aqui si lo usas)
+*.jks
+
+# Archivos generados
+app/build/
+build/
