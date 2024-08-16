@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694565458424",
+    "project_id": "uberclone-56b8e",
+    "storage_bucket": "uberclone-56b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694565458424:android:b8524b0636f8c09893460d",
+        "android_client_info": {
+          "package_name": "com.valo.uberclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-JVj1R1S_q8hn8ep4EqgYUj5fwgZATjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
